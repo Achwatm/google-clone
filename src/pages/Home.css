@@ -45,3 +45,6 @@
     height: 100px;
 } 
 
+.search_buttonsHidden{
+    display: none !important; 
+}
